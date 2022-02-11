@@ -1,2 +1,6 @@
-# solidity_smart_contracts_remix
+# Welcom To Solidity Smart Contract Using Ethereum
 Membuat  Smart Contract Using Remix Ethereum
+
+Smart Contract yang bisa dibuat
+- ERC20
+- ERC712
