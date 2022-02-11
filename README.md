@@ -1,4 +1,4 @@
-# Welcom To Solidity Smart Contract Using Ethereum
+# Welcome To Solidity Smart Contract Using Ethereum
 Membuat  Smart Contract Using Remix Ethereum
 
 Smart Contract yang bisa dibuat
